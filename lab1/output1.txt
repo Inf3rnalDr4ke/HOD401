@@ -1,0 +1,19 @@
+8.8.8.0 is down
+8.8.8.1 is down
+8.8.8.2 is down
+8.8.8.3 is down
+8.8.8.4 is down
+8.8.8.5 is down
+8.8.8.6 is down
+8.8.8.7 is down
+8.8.8.8 is up
+Port 53 is open
+Port 443 is open
+Port 853 is open
+8.8.8.9 is down
+8.8.8.10 is down
+8.8.8.11 is down
+8.8.8.12 is down
+8.8.8.13 is down
+8.8.8.14 is down
+8.8.8.15 is down
