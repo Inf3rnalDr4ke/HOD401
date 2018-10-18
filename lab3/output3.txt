@@ -14,4 +14,7 @@ Subdomain: info.fpt.edu.vn,210.211.117.203
 Subdomain: home.fpt.edu.vn,118.69.201.208
 Subdomain: library.fpt.edu.vn,210.245.80.30
 Subdomain: ldap.fpt.edu.vn,118.70.217.14
-
+Subdomain: calendar.fpt.edu.vn,172.217.31.243
+Subdomain: site.fpt.edu.vn,216.58.199.19
+Subdomain: MAIL.fpt.edu.vn,216.58.199.115
+Subdomain: school.fpt.edu.vn,112.213.94.228
