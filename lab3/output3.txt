@@ -1,0 +1,17 @@
+Subdomain: www.fpt.edu.vn,210.245.80.30
+Subdomain: mail.fpt.edu.vn,216.58.221.243
+Subdomain: test.fpt.edu.vn,210.245.80.30
+Subdomain: forum.fpt.edu.vn,210.245.80.70
+Subdomain: vpn.fpt.edu.vn,1.55.242.220
+Subdomain: old.fpt.edu.vn,210.245.80.30
+Subdomain: support.fpt.edu.vn,210.245.95.59
+Subdomain: email.fpt.edu.vn,52.88.101.199
+Subdomain: email.fpt.edu.vn,52.10.33.16
+Subdomain: cms.fpt.edu.vn,210.245.80.70
+Subdomain: proxy.fpt.edu.vn,210.245.80.74
+Subdomain: exchange.fpt.edu.vn,103.63.213.47
+Subdomain: info.fpt.edu.vn,210.211.117.203
+Subdomain: home.fpt.edu.vn,118.69.201.208
+Subdomain: library.fpt.edu.vn,210.245.80.30
+Subdomain: ldap.fpt.edu.vn,118.70.217.14
+
