@@ -1,3 +1,4 @@
+#python2
 import dns.resolver
 
 print(" Enter the Domain Name: ")
